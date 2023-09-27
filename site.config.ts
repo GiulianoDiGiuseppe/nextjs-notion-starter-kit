@@ -58,10 +58,10 @@ export default siteConfig({
       title: 'Home',
       pageId: '0eb12f40390c431797a9d6263fe7ac74'
     },
-    {
-      title: 'Projects',
-      pageId: '4a9eff6ddd6546e6b08801556d7db2fd'
-    },
+    // {
+    //   title: 'Projects',
+    //   pageId: '4a9eff6ddd6546e6b08801556d7db2fd'
+    // },
     {
       title: 'CV',
       pageId: '4708821e1c8f462e858e374076d3e18c'
