@@ -1,21 +1,21 @@
 {
-  "name": "Next.js Notion Starter Kit",
-  "short_name": "Starter Kit",
+  "name": "Giuliano Di Giuseppe",
+  "short_name": "GDG",
   "icons": [
     {
-      "src": "/favicon.png",
+      "src": "/my_icon.png",
       "type": "image/png",
-      "sizes": "32x32"
+      "sizes": "700x700"
     },
     {
-      "src": "/favicon-128x128.png",
+      "src": "/my_icon-128x128.png",
       "type": "image/png",
-      "sizes": "128x128"
+      "sizes": "700x700"
     },
     {
-      "src": "/favicon-192x192.png",
+      "src": "/my_icon-192x192.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "700x700"
     }
   ],
   "theme_color": "#000000",

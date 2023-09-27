@@ -40,7 +40,6 @@ export default function App({ Component, pageProps }: AppProps) {
       if (fathomId) {
         Fathom.trackPageview()
       }
-
       if (posthogId) {
         posthog.capture('$pageview')
       }
